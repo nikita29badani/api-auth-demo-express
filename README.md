@@ -9,3 +9,10 @@ This project demonstrates how to use different types of API authentication using
 - API Key Authentication
 - Bearer Token Authentication
 - Server-side rendering using EJS
+
+## Tech Stack
+
+- Node.js
+- Express.js
+- Axios
+- EJS
